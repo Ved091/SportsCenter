@@ -67,8 +67,8 @@ A scalable full-stack e-commerce platform for sports equipment, built using **Sp
 ### Setup
 
 ```bash
-git clone https://github.com/rahulsahay19/Java-React-FullStack.git
-cd Java-React-FullStack
+git clone https://github.com/Ved091/SportsCenter.git
+cd SportsCenter
 
 # Start database services
 cd docker
